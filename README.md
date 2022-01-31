@@ -29,7 +29,7 @@ I'm looking for my daily evolution, you can not only follow me here on my **[Git
     />
   <img   
       align="center"
-      height="165" 
+      height="190" 
        src="https://github-readme-stats.vercel.app/api?username=paulodaluz&show_icons=true&theme=tokyonight"
     />
 </p>
