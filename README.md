@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Paulo!
 
-#
-
-<img align="right" alt="GIF" height="170px" src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif" />
+<img align="right" alt="GIF" height="400px" src="https://user-images.githubusercontent.com/47355769/151726828-d6cf4b07-5055-44c9-bb4a-6f5470c20048.png" />
 
 My name is Paulo da Luz and I'm a Backend developer, Mobile developer and in the future I will be Full Stack developer. At the moment I am focused on the Backend on Node.js (Javascript & Typescript) and Im graduated in computer science at IMED from Passo Fundo / RS - Brazil.
 
