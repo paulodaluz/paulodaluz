@@ -25,7 +25,7 @@ I'm looking for my daily evolution, you can not only follow me here on my **[Git
 <p align="center">
    <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodaluz&layout=compact&theme=tokyonight&langs_count=8"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodaluz&layout=compact&theme=tokyonight&langs_count=7"
     />
   <img   
       align="center"
