@@ -25,12 +25,13 @@ I'm looking for my daily evolution, you can not only follow me here on my **[Git
 <p align="center">
    <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodaluz&layout=compact&theme=tokyonight&langs_count=7"
+      Height="170"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodaluz&layout=compact&theme=github_dark&langs_count=6&hide=HTML"
     />
   <img   
       align="center"
-      height="190" 
-       src="https://github-readme-stats.vercel.app/api?username=paulodaluz&show_icons=true&theme=tokyonight"
+      height="170" 
+       src="https://github-readme-stats.vercel.app/api?username=paulodaluz&show_icons=true&theme=github_dark&count_private=true&show_icons=true&&include_all_commits=true&hide=issues"
     />
 </p>
 
