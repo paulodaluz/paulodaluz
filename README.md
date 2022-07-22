@@ -38,3 +38,4 @@ I'm looking for my daily evolution, you can not only follow me here on my **[Git
 ## 📫 Where can you find me?
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/paulo-da-luz/)
+
