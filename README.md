@@ -26,7 +26,7 @@ I'm looking for my daily evolution, you can not only follow me here on my **[Git
    <img
       align="center"
       Height="160"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodaluz&layout=compact&theme=github_dark&langs_count=6&hide=HTML"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodaluz&layout=compact&theme=github_dark&langs_count=7&hide=HTML"
     />
   <img   
       align="center"
